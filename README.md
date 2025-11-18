@@ -1,2 +1,2 @@
 # Example OSS repo
-Today is 6.11.2025
+Today is 18.11.2025
